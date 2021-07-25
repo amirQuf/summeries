@@ -1,2 +1,2 @@
 
-<p style  ="dir="rtl"> سلام </p>
+<p style  ="dir='rtl';align ='left';"> سلام </p>
