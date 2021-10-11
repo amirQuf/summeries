@@ -1,3 +1,3 @@
 # summeries
 
-a repo  for my summeries ihope that would br usefull
+a repo  for my summeries i hope that would br usefull
