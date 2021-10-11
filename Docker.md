@@ -104,5 +104,5 @@ vm is more compatible  you can run it in every  OS and hosts
 
 - docker  log  container_id
 - docker exec -it  container_id  /bin/bash 
-- 
+
 
